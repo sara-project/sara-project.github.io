@@ -197,7 +197,7 @@ img { max-width: 100%; }
 .navbar {
 	margin-bottom: 0;
 	background: #333;
-	background: rgba(140, 140, 140, 0.8);
+	background: rgba(206, 206, 206, 0.8);
 	border: 0;
 	-moz-border-radius: 0; -webkit-border-radius: 0; border-radius: 0;
 }
@@ -208,7 +208,7 @@ ul.navbar-nav {
 	text-transform: uppercase;
 }
 
-ul.navbar-nav li a { padding-top: 23px; padding-bottom: 23px; color: #fff; }
+ul.navbar-nav li a { padding-top: 23px; padding-bottom: 23px; color: #fff; font-weight: 500; }
 ul.navbar-nav li a:hover { background: none; color: #ffd42a; }
 ul.navbar-nav li a:focus { background: none; color: #ffd42a; outline: 0; }
 
@@ -665,7 +665,6 @@ ul.navbar-nav li a:focus { background: none; color: #ffd42a; outline: 0; }
 footer {
 	padding: 25px 0 20px 0;
 	background: #c0c0c0;
-  background: rgba(140, 140, 140, 1);
 	text-align: right;
 }
 
