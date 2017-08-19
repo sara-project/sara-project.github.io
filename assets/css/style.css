@@ -694,6 +694,7 @@ footer .scroll-to-top a:hover, footer .scroll-to-top a:focus, footer .scroll-to-
 	font-size: 100px;
 	-webkit-text-shadow: 3px 3px  #C0C0C0;
     text-shadow:  3px 3px #C0C0C0;
+  cursor: pointer;
 }
 
 #main-title:hover {
