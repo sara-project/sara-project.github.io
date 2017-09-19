@@ -209,7 +209,7 @@ ul.navbar-nav {
 }
 
 ul.navbar-nav li a { padding-top: 23px; padding-bottom: 23px; color: #fff; font-weight: 500; text-shadow: 2px 2px #C0C0C0; cursor: pointer;}
-ul.navbar-nav li a:hover { background: none; color: #ffd42a; }
+ul.navbar-nav li a:hover { background: none; color: #fff; -webkit-text-shadow: 3px 3px 5px #ffd42a; text-shadow: 0px 0px 13px #ffd42a;}
 ul.navbar-nav li a:focus { background: none; color: #ffd42a; outline: 0; }
 
 .navbar>.container .navbar-brand { margin-left: 0; }
