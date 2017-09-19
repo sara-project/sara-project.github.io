@@ -698,8 +698,9 @@ footer .scroll-to-top a:hover, footer .scroll-to-top a:focus {color: #fff; -webk
 }
 
 #main-title:hover {
-	-webkit-text-shadow: 3px 3px 5px  #ffd42a  !important;
-    text-shadow:  3px 3px 5px #ffd42a !important;
+	-webkit-text-shadow: 3px 3px  #C0C0C0;
+    text-shadow: 3px 3px 18px #ffd42a;
+  cursor: pointer;
 }
 
 #main-title:focus {
